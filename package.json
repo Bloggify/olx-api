@@ -17,8 +17,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
-  "homepage": "https://github.com/IonicaBizau/olx-api#readme",
+  "author": "Bloggify <support@bloggify.org> (https://bloggify.org)",
+  "homepage": "https://github.com/Bloggify/olx-api#readme",
   "files": [
     "bin/",
     "app/",
@@ -36,9 +36,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/olx-api.git"
+    "url": "git+ssh://git@github.com/Bloggify/olx-api.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/olx-api/issues"
+    "url": "https://github.com/Bloggify/olx-api/issues"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "blah": {
+    "description": "For API documentation, check out the developer pages: https://developer.olx.ro/ro"
   }
 }
