@@ -42,7 +42,7 @@
     "url": "https://github.com/Bloggify/olx-api/issues"
   },
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   },
   "blah": {
     "description": "For API documentation, check out the developer pages: https://developer.olx.ro/ro"
